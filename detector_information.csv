@@ -1,0 +1,7 @@
+zone_id,display_name,state,rtmc,timezone,road,direction,location_description,lane_type,organization,detector_type,latitude,longitude,bearing,default_speed,interval,length
+10031,MVDS I-75-NB 374.0,District 2,null,America/New_York,I-75,North,MVDS I-75 374.0 NM,Unknown,FDOT,Radar,29.49669,-82.29473,null,70,20,0.78
+10032,MVDS I-75-NB 373.4,District 2,null,America/New_York,I-75,North,MVDS I-75 373.4 NS,Unknown,FDOT,Radar,29.48555,-82.28802,null,70,20,0.86
+10034,MVDS I-75-NB 374.5,District 2,null,America/New_York,I-75,North,MVDS I-75 374.5 NS,Unknown,FDOT,Radar,29.50628,-82.29868,null,70,20,0.64
+10038,MVDS I-75-NB 375.0,District 2,null,America/New_York,I-75,North,MVDS I-75 375.0 SS,Unknown,FDOT,Radar,29.51356,-82.30344,null,70,20,0.64
+10045,MVDS I-75-NB 376.5,District 2,null,America/New_York,I-75,North,MVDS I-75 376.5 NS,Unknown,FDOT,Radar,29.53369,-82.32021,null,70,20,0.89
+10895,MVDS I-75-NB 375.5,District 2,null,America/New_York,I-75,North,MVDS I-75 375.5 NS,Unknown,FDOT,Radar,29.52229,-82.30939,null,70,20,0.86
